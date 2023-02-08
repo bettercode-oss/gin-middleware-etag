@@ -17,7 +17,7 @@ package main
 
 import (
   "github.com/gin-gonic/gin"
-  "github.com/bettercode-oss/gin-middleware-etag/etag"
+  "github.com/bettercode-oss/gin-middleware-etag"
   "net/http"
 )
 
