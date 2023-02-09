@@ -1,4 +1,4 @@
-![Build Status](https://github.com/bettercode-oss/gin-middleware-etag/actions/workflows/go.yml/badge.svg)
+![Build Status](https://github.com/bettercode-oss/gin-middleware-etag/actions/workflows/build.yml/badge.svg)
 
 # HTTP ETag Cache Middleware
 Gin middleware/handler to enable HTTP Etag support.
