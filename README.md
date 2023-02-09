@@ -1,5 +1,5 @@
 ![Build Status](https://github.com/bettercode-oss/gin-middleware-etag/actions/workflows/build.yml/badge.svg)
-[![codecov](https://codecov.io/gh/bettercode-oss/gin-middleware-etag/branch/main/graph/badge.svg?token=tNKcOjlxLo)](https://codecov.io/gh/codecov/example-go)
+[![codecov](https://codecov.io/gh/bettercode-oss/gin-middleware-etag/branch/main/graph/badge.svg?token=tNKcOjlxLo)](https://codecov.io/gh/bettercode-oss/gin-middleware-etag)
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/bettercode-oss/gin-middleware-etag)
 
 # HTTP ETag Cache Middleware
