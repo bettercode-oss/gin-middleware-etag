@@ -1,6 +1,7 @@
 ![Build Status](https://github.com/bettercode-oss/gin-middleware-etag/actions/workflows/build.yml/badge.svg)
 [![codecov](https://codecov.io/gh/bettercode-oss/gin-middleware-etag/branch/main/graph/badge.svg?token=tNKcOjlxLo)](https://codecov.io/gh/bettercode-oss/gin-middleware-etag)
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/bettercode-oss/gin-middleware-etag)
+![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/bettercode-oss/gin-middleware-etag)
 
 # HTTP ETag Cache Middleware
 Gin middleware/handler to enable HTTP Etag support.
